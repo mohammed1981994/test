@@ -1668,4 +1668,4 @@ Hybrid: combines deterministic/probabilistic methods for better performance.
 - ✅ Lecture 2 (Linear Programming): Q41-Q90
 - ✅ Lecture 3 (Stochastic Gradient Descent): Q91-Q120
 - ✅ Lecture 4 (Optimization Algorithms): Q121-Q150
-- ✅ Each question includes: Question, 4 Options, Correct Answer, Detailed Explanation
+- ✅ Each question includes: Question, 4 Options, Correct Answer, Detailed Explanation...
